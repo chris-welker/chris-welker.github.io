@@ -2,7 +2,7 @@
 layout: page
 title: Research
 ---
-Broadly, I'm interested in how people interact and connect. My research uses a broad array of quantitative approaches and methods (i.e., social network analysis, naturalistic conversational paradigms, longitudinal surveys) to investigate the interplay between our conversations, our friendships, and the ways we think. 
+Broadly, I'm interested in how people interact and connect. My research uses a wide array of quantitative approaches and methods (i.e., social network analysis, naturalistic conversational paradigms, longitudinal surveys) to investigate the interplay between our conversations, our friendships, and the ways we think. 
 
 A few of the central questions that guide my research are below:
 <br>
