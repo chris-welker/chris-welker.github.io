@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            Chris Welker
+tagline:          'A personal website'
+description:      'A personal website'
+url:              https://chris-welker.github.io
+baseurl:          ""
+
+author:
+  name:           'Chris Welker'
+  url:            https://twitter.com/c_welk
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/chris-welker/chris-welker.github.io
