@@ -18,7 +18,6 @@ A few of the central questions that guide my research are below:
   <br>
    <a href="https://www.pnas.org/doi/10.1073/pnas.2321652121" class="button">Paper</a>
   </div>
-  </div>
 </details>
 
 <details>
