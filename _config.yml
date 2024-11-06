@@ -8,7 +8,8 @@ relative_permalinks: false
 
 # Setup
 title:            Chris Welker
-description:      'Chris Welker is a PhD Candidate working with Thalia Wheatley at Dartmouth College'
+tagline:          Chris Welker's academic personal website 
+description:      "Chris Welker is a PhD Candidate interested in how we communicate and connect. He is currently working with Thalia Wheatley at Dartmouth College."
 url:              https://chris-welker.github.io
 baseurl:          ""
 
