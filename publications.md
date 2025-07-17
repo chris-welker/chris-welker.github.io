@@ -2,9 +2,18 @@
 layout: page
 title: Publications
 ---
-For a complete list of my pulications, please see my [**Google Scholar**](https://scholar.google.com/citations?user=x1w1iZ4AAAAJ&hl=en) or [**CV**](https://chris-welker.github.io/public/Welker.Chris_WebCV_10.15.2024.pdf).
+For a complete list of my pulications, please see my [**Google Scholar**](https://scholar.google.com/citations?user=x1w1iZ4AAAAJ&hl=en) or [**CV**](https://chris-welker.github.io/public/Welker.Chris_WebCV_07.17.2025.pdf).
 
 <sup>*</sup> denotes equal authorship
+<h3>2025</h3>
+<p class="message">
+  Shen, Y*. Hyon, R*. Wheatley, T., Kleinbaum, A. M., <strong>Welker, C.</strong>, & Parkinson, C. (in press). Neural Similarity Predicts Whether Strangers Become Friends. <em>Nature Human Behavior</em>.
+   <a href="https://osf.io/preprints/psyarxiv/vyge6_v1" class="button">Paper</a>
+  <br />
+  <br />
+  <strong>Welker, C.</strong>, Wheatley, T., & Meyer, M. (2025). Reply to Izuma and Kakinuma: Conversation aligns self-views above and beyond noise reduction. <em>Proceedings of the National Academy of Sciences</em>, 122 (27).
+  <a href="https://www.pnas.org/doi/10.1073/pnas.2508437122" class="button">Paper</a>
+</p>
 <h3>2024</h3>
 <p class="message">
   <strong>Welker, C.</strong>, Wheatley, T., Cason, G., Gorman, C., & Meyer, M. (2024). Self-views converge during enjoyable conversations. <em>Proceedings of the National Academy of Sciences</em>, 121(43).
