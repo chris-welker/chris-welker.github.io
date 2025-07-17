@@ -7,7 +7,7 @@ For a complete list of my pulications, please see my [**Google Scholar**](https:
 <sup>*</sup> denotes equal authorship
 <h3>2025</h3>
 <p class="message">
-  Shen, Y*. Hyon, R*. Wheatley, T., Kleinbaum, A. M., <strong>Welker, C.</strong>, & Parkinson, C. (in press). Neural Similarity Predicts Whether Strangers Become Friends. <em>Nature Human Behavior</em>.
+  Shen, Y.<sup>*</sup>, Hyon, R.<sup>*</sup>, Wheatley, T., Kleinbaum, A. M., <strong>Welker, C.</strong>, & Parkinson, C. (<em>in press</em>). Neural Similarity Predicts Whether Strangers Become Friends. <em>Nature Human Behavior</em>.
    <a href="https://osf.io/preprints/psyarxiv/vyge6_v1" class="button">Paper</a>
   <br />
   <br />
@@ -20,7 +20,7 @@ For a complete list of my pulications, please see my [**Google Scholar**](https:
   <a href="https://www.pnas.org/doi/10.1073/pnas.2321652121" class="button">Paper</a>
   <br />
   <br />
-  Mahaphanit, W<sup>*</sup>, <strong>Welker, C.<sup>*</sup></strong>, Schmidt, H., Chang, L., & Hawkins, R. (2024). When and why does shared reality generalize? <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society</em>, 46, 107-113. 
+  Mahaphanit, W.<sup>*</sup>, <strong>Welker, C.<sup>*</sup></strong>, Schmidt, H., Chang, L., & Hawkins, R. (2024). When and why does shared reality generalize? <em>Proceedings of the 46th Annual Conference of the Cognitive Science Society</em>, 46, 107-113. 
   <a href="https://escholarship.org/content/qt6t6195s5/qt6t6195s5_noSplash_1435956cea1a66396035d3cb234b917a.pdf" class="button">Paper</a>
   <br />
   <br />
