@@ -8,7 +8,7 @@ For a complete list of my pulications, please see my [**Google Scholar**](https:
 <h3>2025</h3>
 <p class="message">
   Shen, Y.<sup>*</sup>, Hyon, R.<sup>*</sup>, Wheatley, T., Kleinbaum, A. M., <strong>Welker, C.</strong>, & Parkinson, C. (<em>in press</em>). Neural Similarity Predicts Whether Strangers Become Friends. <em>Nature Human Behavior</em>.
-   <a href="https://osf.io/preprints/psyarxiv/vyge6_v1" class="button">Paper</a>
+   <a href="https://www.nature.com/articles/s41562-025-02266-7" class="button">Paper</a>
   <br />
   <br />
   <strong>Welker, C.</strong>, Wheatley, T., & Meyer, M. (2025). Reply to Izuma and Kakinuma: Conversation aligns self-views above and beyond noise reduction. <em>Proceedings of the National Academy of Sciences</em>, 122 (27).
