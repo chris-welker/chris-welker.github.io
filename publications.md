@@ -7,7 +7,7 @@ For a complete list of my pulications, please see my [**Google Scholar**](https:
 <sup>*</sup> denotes equal authorship
 <h3>2025</h3>
 <p class="message">
-  Shen, Y.<sup>*</sup>, Hyon, R.<sup>*</sup>, Wheatley, T., Kleinbaum, A. M., <strong>Welker, C.</strong>, & Parkinson, C. (<em>in press</em>). Neural Similarity Predicts Whether Strangers Become Friends. <em>Nature Human Behavior</em>.
+  Shen, Y.<sup>*</sup>, Hyon, R.<sup>*</sup>, Wheatley, T., Kleinbaum, A. M., <strong>Welker, C.</strong>, & Parkinson, C. (2025). Neural Similarity Predicts Whether Strangers Become Friends. <em>Nature Human Behavior</em>.
    <a href="https://www.nature.com/articles/s41562-025-02266-7" class="button">Paper</a>
   <br />
   <br />
