@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-For a complete list of my pulications, please see my [**Google Scholar**](https://scholar.google.com/citations?user=x1w1iZ4AAAAJ&hl=en) or [**CV**](https://chris-welker.github.io/public/Welker.Chris_WebCV_07.17.2025.pdf).
+For a complete list of my pulications, please see my [**Google Scholar**](https://scholar.google.com/citations?user=x1w1iZ4AAAAJ&hl=en) or [**CV**](https://chris-welker.github.io/public/Welker.Chris_WebCV_10.12.2025.pdf).
 
 <sup>*</sup> denotes equal authorship
 <h3>2025</h3>
