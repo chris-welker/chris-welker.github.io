@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-For a complete list of my pulications, please see my [**Google Scholar**](https://scholar.google.com/citations?user=x1w1iZ4AAAAJ&hl=en) or [**CV**](https://chris-welker.github.io/public/Welker.Chris_WebCV_03.20.2026.pdf).
+For a complete list of my publications, please see my [**Google Scholar**](https://scholar.google.com/citations?user=x1w1iZ4AAAAJ&hl=en) or [**CV**](https://chris-welker.github.io/public/Welker.Chris_WebCV_03.20.2026.pdf).
 
 <sup>*</sup> denotes equal authorship
 <h3>2026</h3>
@@ -16,7 +16,7 @@ For a complete list of my pulications, please see my [**Google Scholar**](https:
 </p>
 <h3>2025</h3>
 <p class="message">
-  Shen, Y.<sup>*</sup>, Hyon, R.<sup>*</sup>, Wheatley, T., Kleinbaum, A. M., <strong>Welker, C.</strong>, & Parkinson, C. (2025). Neural Similarity Predicts Whether Strangers Become Friends. <em>Nature Human Behavior</em>.
+  Shen, Y.<sup>*</sup>, Hyon, R.<sup>*</sup>, Wheatley, T., Kleinbaum, A. M., <strong>Welker, C.</strong>, & Parkinson, C. (2025). Neural Similarity Predicts Whether Strangers Become Friends. <em>Nature Human Behaviour</em>.
    <a href="https://www.nature.com/articles/s41562-025-02266-7" class="button">Paper</a>
   <br />
   <br />
