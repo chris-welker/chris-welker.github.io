@@ -21,7 +21,7 @@ A few of the central questions that guide my research are below:
 </details>
 
 <details>
-  <summary>How do we infer what have in common with our conversation partners?</summary>
+  <summary>How do we infer what we have in common with our conversation partners?</summary>
   
   <div>
   When we talk with someone, we're offered a brief glimpe into how they process the world. How do we build a full impression of that person, and what we might have in common with them, from such a thin slice of expereince? To address this question, we had participants fill out a survey assessing their opinions about a variety of topics (e.g., politics, religion, cultural preferences, etc.) and then matched them via an online chat platform to talk with a stranger about a topic on which they shared the same opinion, a topic on which they had opposing opinions, or a random topic. After their conversation, we had participants tell us which opinions they thought they had in common with their conversation partner. 
