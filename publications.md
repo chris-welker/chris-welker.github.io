@@ -5,6 +5,15 @@ title: Publications
 For a complete list of my pulications, please see my [**Google Scholar**](https://scholar.google.com/citations?user=x1w1iZ4AAAAJ&hl=en) or [**CV**](https://chris-welker.github.io/public/Welker.Chris_WebCV_03.20.2026.pdf).
 
 <sup>*</sup> denotes equal authorship
+<h3>2026</h3>
+<p class="message">
+  Jang, D., <strong>Welker, C.</strong>, & Le, D. Q. (2026). Negotiation across the social sciences: An interdisciplinary review. <em>Current Opinion in Psychology</em>. 73.
+   <a href="https://www.sciencedirect.com/science/article/pii/S2352250X26001223" class="button">Paper</a>
+  <br />
+  <br />
+  <strong>Welker, C.</strong>, Wheatley, T., & Meyer, M. (2025). Reply to Izuma and Kakinuma: Conversation aligns self-views above and beyond noise reduction. <em>Proceedings of the National Academy of Sciences</em>, 122 (27).
+  <a href="https://www.pnas.org/doi/10.1073/pnas.2508437122" class="button">Paper</a>
+</p>
 <h3>2025</h3>
 <p class="message">
   Shen, Y.<sup>*</sup>, Hyon, R.<sup>*</sup>, Wheatley, T., Kleinbaum, A. M., <strong>Welker, C.</strong>, & Parkinson, C. (2025). Neural Similarity Predicts Whether Strangers Become Friends. <em>Nature Human Behavior</em>.
@@ -39,6 +48,10 @@ For a complete list of my pulications, please see my [**Google Scholar**](https:
 </p>
 <h3>Preprints</h3>
 <p class="message">
+  Mahaphanit, W.<sup>*</sup>, <strong>Welker, C.<sup>*</sup></strong>, Schmidt, H., Houlihan, S. D., Chang, L., & Hawkins, R. (2026). Generalized shared reality arises in brief interactions from structured social inferences about commonality. <em>PsyArXiv</em>, 46, 107-113. 
+  <a href="https://osf.io/preprints/psyarxiv/3xzpe_v2" class="button">Paper</a>
+  <br />
+  <br />
   Elfenbein, H. A., Jang, D., Kleinbaum, A. M., & <strong>Welker, C.</strong> (2023). The choice that chooses you back: Introducing social variety-seeking as a trait predicting greater network brokerage through building connections with previously disconnected others. <em>SSRN</em>.
   <a href="https://papers.ssrn.com/abstract=4575592" class="button">Preprint</a>
   <br />
