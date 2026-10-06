@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-For a complete list of my publications, please see my [**Google Scholar**](https://scholar.google.com/citations?user=x1w1iZ4AAAAJ&hl=en) or [**CV**](https://chris-welker.github.io/public/Welker.Chris_WebCV_08.23.2026.pdf).
+For a complete list of my publications, please see my [**Google Scholar**](https://scholar.google.com/citations?user=x1w1iZ4AAAAJ&hl=en) or [**CV**](https://chris-welker.github.io/public/Welker.Chris_WebCV_09.03.2026.pdf).
 
 <sup>*</sup> denotes equal authorship
 <h3>Preprints</h3>
